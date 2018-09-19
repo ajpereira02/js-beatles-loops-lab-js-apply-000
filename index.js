@@ -6,7 +6,7 @@ for (let i=0; i<musicians.length; i++){
   return array;
 }
 //first we need to define a function with two stated arrays, then we need to create an empty array.
-//using for loop place the initialization; the condition, in this case the entire length og the array with .length;add the iteration
+//using for loop place the initialization; the condition, in this case the entire length of the array with .length;add the iteration
 //the body of the loop should create a string using the first index of the musicians array and the first index of the instruments array. Using array.push by which the loop is created for every member of the musisian array. Than we need to return array
 
 function johnLennonFacts(Facts){
